@@ -314,3 +314,12 @@ in your store.js after seting up the store in redux .
 
 
 7. make sure your createAsyncThunk will have be of these three (auth,cart,products). 
+
+
+
+8. When you enter wrong inut in signin and signup details it should show please enter valid data in the toastify
+
+
+9. when you add to cart it show product added successfully! in toastify
+
+10. whenthe product is already added and you add again from the home page it should show product added successfully!   in toastify
